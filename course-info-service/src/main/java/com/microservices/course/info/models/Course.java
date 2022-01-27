@@ -8,6 +8,7 @@ public class Course {
 	private String new_feature;
 	private String master;
 	private String new_feature_new;
+	private String new_feature_pr;
 
 	public Course() {
 
