@@ -6,6 +6,7 @@ public class Course {
 	private String name;
 	private String description;
 	private String new_feature;
+	private String new_feature_new;
 
 	public Course() {
 
