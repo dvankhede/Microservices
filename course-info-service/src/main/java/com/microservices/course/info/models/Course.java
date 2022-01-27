@@ -7,6 +7,7 @@ public class Course {
 	private String description;
 	private String new_feature;
 	private String master;
+	private String new_feature_new;
 
 	public Course() {
 
