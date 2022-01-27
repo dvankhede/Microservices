@@ -5,6 +5,7 @@ public class Course {
 	private String courseId;
 	private String name;
 	private String description;
+	private String new_feature;
 
 	public Course() {
 
