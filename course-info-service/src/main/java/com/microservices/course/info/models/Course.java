@@ -10,6 +10,8 @@ public class Course {
 	private String new_feature_new;
 	private String new_feature_pr;
 	private String master_pr;
+	private String before_amend;
+	private String after_amend;
 
 	public Course() {
 
